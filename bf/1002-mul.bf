@@ -6,7 +6,7 @@
 >++++ ++ @3
 <<- @1
 ]
-#substract 48 from it to remove the ascii value
+#substract  48 from it to remove the ascii value
 ,       # read character and store it in p1
 > @2
 [
